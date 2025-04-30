@@ -1,0 +1,13 @@
+{
+  "name": "imersao-em-desenvolvimento-de-apis-com-nodejs-ewacademy",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node aula02/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
