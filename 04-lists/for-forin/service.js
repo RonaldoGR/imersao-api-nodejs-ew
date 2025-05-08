@@ -11,9 +11,7 @@ async function getPeople (nome) {
 
 
 
-export default{
-    getPeople   
-};
+export default getPeople;
 
 // getPeople('r2')
 //     .then((result) => {
