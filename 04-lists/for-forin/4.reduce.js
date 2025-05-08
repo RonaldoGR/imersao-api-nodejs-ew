@@ -27,6 +27,7 @@ async function main() {
         const total = myList.meuReduce((preview, next) => {
             return preview.concat(next)
         }, [])
+        .join(", ")
 
 
         // console.log(`PESOS: ${height}`);
