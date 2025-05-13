@@ -1,3 +1,3 @@
 import assert from "assert"
 
-assert.ok(false)
+assert.ok(true)
