@@ -11,7 +11,8 @@
   "description": "",
   "dependencies": {
     "assert": "^2.1.0",
-    "axios": "^1.9.0"
+    "axios": "^1.9.0",
+    "nock": "^14.0.4"
   },
   "devDependencies": {
     "mocha": "^11.2.2"
