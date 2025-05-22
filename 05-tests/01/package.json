@@ -12,6 +12,7 @@
   "dependencies": {
     "assert": "^2.1.0",
     "axios": "^1.9.0",
+    "esm": "^3.2.25",
     "nock": "^14.0.4"
   },
   "devDependencies": {

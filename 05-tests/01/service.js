@@ -8,7 +8,7 @@ export async function getPeople(nome) {
     const url = `${URL}/?search=${nome}&format=json`
     const result = await get(url)
 
-    console.log(result.data)
+    console.log((result.data))
 
     return result.data.results.map(peopleMap)
 }
